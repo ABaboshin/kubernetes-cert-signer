@@ -10,3 +10,7 @@
 ```bash
 bash build-image.sh
 ```
+
+## Usage
+
+See https://github.com/ABaboshin/DotNetCoreProfiler/tree/master/k8s
